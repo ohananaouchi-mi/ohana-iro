@@ -1,0 +1,5 @@
+{
+  "name": "ohana-iro",
+  "owner": { "name": "ohananaouchi-mi" },
+  "plugins": [{ "name": "ohana-iro", "source": "./" }]
+}
